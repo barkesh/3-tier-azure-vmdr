@@ -137,6 +137,6 @@ This project is a solid foundation. The next logical evolutions are:
 
 **Alireza Barkesh**
 
-A passionate and driven software developer with a strong focus on backend technologies and cybersecurity. I am actively pursuing an ambitious 3-year learning roadmap to build deep expertise at the intersection of secure software development and modern cloud infrastructure.
+A passionate and driven software developer with a strong focus on backend technologies and cybersecurity.
 
 [My LinkedIn Profile](https://www.linkedin.com/in/barkesh) | [My GitHub Profile](https://github.com/barkesh)
