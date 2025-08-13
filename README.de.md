@@ -123,16 +123,6 @@ graph TD
 
 ---
 
-### **5. Zukünftige Roadmap & nächste Schritte**
-
-Dieses Projekt ist eine solide Basis. Die nächsten logischen Evolutionsstufen sind:
-
--   [ ] **Infrastructure as Code (IaC):** Automatisierung des gesamten Setups mit **Terraform**, um die Umgebung versionierbar, reproduzierbar und skalierbar zu machen.
--   [ ] **DevSecOps - "Shift Left":** Integration von Sicherheits-Scans in eine **CI/CD-Pipeline** (z.B. mit GitHub Actions), um Schwachstellen bereits im Entwicklungszyklus zu finden.
--   [ ] **Advanced Threat Detection:** Zentralisierung von Logs in **Microsoft Sentinel (SIEM)** zur proaktiven Erkennung von Anomalien und Angriffsmustern.
-
----
-
 ### **Über den Autor**
 
 **Alireza Barkesh**
