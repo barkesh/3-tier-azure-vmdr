@@ -7,7 +7,7 @@
 ### Architecture and Security Concept for Cloud Environments
 
 <p>
-    <img src="https://img.shields.io/badge/status-completed-green" alt="Project Status: Completed">
+    <a href="#"><img src="https://img.shields.io/badge/Status-Completed-28a745?style=for-the-badge" alt="Project Status: Completed"></a>
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
     <img src="https://img.shields.io/badge/Qualys-ED2E26?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
