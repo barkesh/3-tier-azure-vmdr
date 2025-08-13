@@ -137,6 +137,6 @@ Dieses Projekt ist eine solide Basis. Die nächsten logischen Evolutionsstufen s
 
 **Alireza Barkesh**
 
-Ein leidenschaftlicher und zielstrebiger Softwareentwickler mit einem starken Fokus auf Backend-Technologien und Cybersicherheit. Ich verfolge aktiv eine anspruchsvolle 3-Jahres-Lern-Roadmap, um tiefgreifende Expertise an der Schnittstelle von sicherer Softwareentwicklung und moderner Cloud-Infrastruktur aufzubauen.
+Ein leidenschaftlicher und zielstrebiger Softwareentwickler mit einem starken Fokus auf Backend-Technologien und Cybersicherheit.
 
 [Mein LinkedIn Profil](https://www.linkedin.com/in/barkesh) | [Mein GitHub Profil](https://github.com/barkesh)
